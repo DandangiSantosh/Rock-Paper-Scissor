@@ -44,11 +44,11 @@ Your choice: Rock
 Computer choice: Paper
 Computer won!!
 
-...
-
 Your wins: 4
 Computer wins: 3
 Draw: 3
 
 Congratulations!!!! You won the match....
 Bye..Bye...
+
+---
