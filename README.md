@@ -29,26 +29,10 @@ This is a simple terminal-based game where you can play 10 rounds against the co
 
 # Sample Output
 
-Welcome to Rock,Paper,Scissor!!
-You will play total 10 rounds
-...
 
------- Round-1 ------
-Choices:
-Rock(R)
-Paper(P)
-Scissor(S)
+<img width="735" height="773" alt="image" src="https://github.com/user-attachments/assets/56bd9421-47ea-4600-b4da-81cd463f1575" />
 
-Pick: R
-Your choice: Rock
-Computer choice: Paper
-Computer won!!
+<img width="486" height="185" alt="image" src="https://github.com/user-attachments/assets/5d7c9e3a-70a0-4e0c-9c1e-c164dd90ce3b" />
 
-Your wins: 4
-Computer wins: 3
-Draw: 3
-
-Congratulations!!!! You won the match....
-Bye..Bye...
 
 ---
